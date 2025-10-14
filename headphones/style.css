@@ -1,0 +1,8 @@
+* , **::after , **::before{
+    margin: 0;
+}
+:root{
+    --primary-brand-color :FF6565;
+    --secondary-brand-color : 071629;
+    --third-color : ffffff;
+}
